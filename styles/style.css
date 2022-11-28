@@ -1,0 +1,33 @@
+html {
+  font-size: 20px;
+  font-family: "Patrick Hand", sans-serif;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 6px black;
+}
+p,
+li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #00539f;
+}
+body {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #BF3FBF;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+img {
+  width: 350px;
+  display: block;
+  margin: 0 auto;
+}
